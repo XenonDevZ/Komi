@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://cdn.discordapp.com/avatars/861312967852556298/1b937495693399d95b78083c75b88a72.png?size=1024" height='100px' width='100px'>
+  <img src="https://cdn.discordapp.com/avatars/861312967852556298/5b459b6519ec57dbd4798e601afdc597.png?size=1024" height='100px' width='100px'>
 </h2>
 
 <h1 align="center">Takeshi <img src="https://cdn.discordapp.com/emojis/866208070366396447.png?" height="30px"></h1>
