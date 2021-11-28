@@ -29,4 +29,4 @@
   <li>🎀 Regularly updated and maintained.</li>
 </ul>
 
-<h3 align="center"><a href="https://discord.com/oauth2/authorize?client_id=912235379208380416&scope=bot&permissions=2146958847">Invite Komi</a> | <a href="https://github.com/XenonDevZ/Takeshi">Discord Server</a> | <a href="https://github.com/XenonDevZ/Takeshi">Website</a></h3>
+<h3 align="center"><a href="https://discord.com/oauth2/authorize?client_id=912235379208380416&scope=bot&permissions=2146958847">Invite Komi</a> | <a href="https://github.com/XenonDevZ/Komi">Discord Server</a> | <a href="https://github.com/XenonDevZ/Komi">Website</a></h3>
