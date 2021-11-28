@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/avatars/912235379208380416/85919a88364d925cdabc47390737487d.png?size=1024" height='100px' width='100px'>
 </h2>
 
-<h1 align="center">Komi <img src="https://cdn.discordapp.com/emojis/866208070366396447.png?" height="30px"></h1>
+<h1 align="center">Komi <img src="https://cdn.discordapp.com/emojis/368228517525061642.png?" height="30px"></h1>
 <h4 align="center">A simple, multipurpose Discord bot.</h4>
 
 <h2><img src="https://cdn.discordapp.com/emojis/766498653753049109.png?v=1" height="20px"> • Info</h2>
